@@ -9,7 +9,7 @@
 #
 #  1. Replace all "xxx@yyy.edu" with email addresses of people to receive notification failures.
 #
-#
+#  NOTE: This script does NOT backup up the Variations media files, assumed to be located in /home/dmlserv/content/*
 #
 
 backupdate=`date "+%y%m%d"`
